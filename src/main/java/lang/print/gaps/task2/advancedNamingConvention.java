@@ -7,10 +7,10 @@ public class advancedNamingConvention {
     private int phoneNumber;
 
     void CAllToFriend() {
-        //some code
+        System.out.println("Calling");
     }
 
     void callByNumber(int Number) {
-        //some code
+        int n =7895649;
     }
 }
